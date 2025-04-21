@@ -8,6 +8,8 @@ inspiered by:
 
 
 
+![Showcase](showcase.gif)
+
 ## Table of Contents
 
 - [Features](#features)
