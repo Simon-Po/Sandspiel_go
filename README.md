@@ -1,4 +1,3 @@
-```markdown
 # Sandspiel Go
 
 Welcome to the Sandspiel Go project! This project is a simple simulation of sand falling, inspired by the classic Sandspiel game. It is built using the Go programming language and utilizes the Raylib library for graphics.
@@ -29,6 +28,7 @@ inspiered by:
 To get started with the Sandspiel Go project, follow these steps:
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/Simon-Po/Sandspiel_go.git
    cd Sandspiel_go
